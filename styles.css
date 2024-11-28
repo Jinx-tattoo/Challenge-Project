@@ -1,3 +1,28 @@
+<<<<<<< HEAD
+header h1 {
+    text-align: center;
+    margin: 0 auto;
+}
+
+section h2 {
+    text-align: center;
+}
+
+section table {
+    margin: 0 auto;
+    border: 3px rgb(1, 27, 2) solid;
+    background-color: greenyellow;
+}
+
+section table thead tr {
+    background-color: green;
+    color: white;
+}
+
+section table td {
+    border: 1px rgb(1, 27, 2) solid;
+=======
 section {
     text-align: center;
+>>>>>>> 70345b95d3dcfbd1ae740e8ac7727eee76d00db1
 }
