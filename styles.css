@@ -1,10 +1,12 @@
 header h1 {
     text-align: center;
     margin: 0 auto;
+    font-weight: bold;
 }
 
 section h2 {
     text-align: center;
+    font-weight: bold;
 }
 
 section table {
@@ -16,12 +18,18 @@ section table {
 section table thead tr {
     background-color: green;
     color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 1px 2px;
 }
 
 section table td {
     border: 1px rgb(1, 27, 2) solid;
+    padding: 1px 2px;
 }
 
-section thead tr td{
-    text-align: center;
+
+body {
+    background-color: darkseagreen;
 }
+
