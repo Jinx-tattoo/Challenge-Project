@@ -21,3 +21,7 @@ section table thead tr {
 section table td {
     border: 1px rgb(1, 27, 2) solid;
 }
+
+section thead tr td{
+    text-align: center;
+}
